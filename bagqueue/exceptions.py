@@ -1,0 +1,2 @@
+class TaskNameError(Exception):
+    pass
